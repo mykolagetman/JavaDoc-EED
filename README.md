@@ -5,3 +5,4 @@
  
  En los programas podremos realizar una serie de operaciones con los numeros que nos dan, como la suma, resta, division, multiplicacion, division.
  
+[!Trabajo](https://github.com/mykolagetman/JavaDoc-EED/blob/master/capturasTrabajo/eed%201.PNG)
